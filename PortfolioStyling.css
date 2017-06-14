@@ -1,0 +1,18 @@
+body {
+    background:url('WoodPanels.jpg') no-repeat 50% 0 fixed;
+    margin: 0 auto;
+	background-size: cover;
+}
+#title {
+	text-align: center;
+	font-family: courier new;
+	font-weight: bold;
+	font-size: 35px;
+	color: white;
+}
+#octagon {
+	text-align: center;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
